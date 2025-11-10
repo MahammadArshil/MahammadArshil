@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Mahammad Arshil
 
-<!--
-**MahammadArshil/MahammadArshil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Full Stack Developer (MERN)** | React.js • Node.js • Express.js • MongoDB  
+💡 Building responsive web apps with clean code and modern UI design.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Tech Stack
+**Frontend:** React.js, Redux, Tailwind CSS, HTML5, CSS3, JavaScript (ES6+)  
+**Backend:** Node.js, Express.js, RESTful APIs  
+**Database:** MongoDB, MySQL  
+**Tools:** Git, GitHub, Postman, Vercel, VS Code
+
+---
+
+### 📌 Featured Projects
+🔹 [**Portfolio Website**](https://portfolio-mahammadarshil.vercel.app/) – Built with React.js (Vite) & Tailwind CSS  
+🔹 [**BMI Calculator**](https://bmi-calculator-beige-one.vercel.app/) – Interactive app using React Hooks  
+🔹 [**Swachh Bharat Web App**](https://staging.webmynehost.com/swachh-bharat/) – Full MERN stack project
+
+---
+
+### 📫 Connect With Me
+🌐 [Portfolio](https://portfolio-mahammadarshil.vercel.app)  
+💼 [LinkedIn](https://www.linkedin.com/in/mahammadarshil-vahora)  
+💻 [GitHub](https://github.com/MahammadArshil)
