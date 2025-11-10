@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mahammad Arshil
 
-🚀 **Full Stack Developer (MERN)** | React.js • Node.js • Express.js • MongoDB  
+🚀 **Full Stack Developer (MERN)** | **Frontend Develper (React.js)** | React.js • Node.js • Express.js • MongoDB  
 💡 Building responsive web apps with clean code and modern UI design.
 
 ---
